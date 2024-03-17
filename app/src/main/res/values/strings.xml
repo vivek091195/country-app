@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CountryApp</string>
+    <string name="app_title">Where in the world?</string>
+    <string name="current_theme">Dark Mode</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="search_placeholder">Search for a country...</string>
+    <string name="flag_image">Flag image</string>
+    <string name="population">Population:</string>
+    <string name="region">Region:</string>
+    <string name="capital">Capital:</string>
 </resources>
